@@ -1,5 +1,3 @@
-# discord-quest-completer
-
 this script automatically completes all discord quests by spoofing game activity, streams, and video watching.
 
 # BIG! DISCLAIMER 😨 this script violates https://discord.com/terms 😡 use at ur own risk 🥺
